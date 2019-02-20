@@ -10,6 +10,9 @@
 
 _You can view the deployed page [here](https://paigewilliams.github.io/Bike-Share-Group-Project/)._
 
+## Project Preview
+![Alt Text](img/out.gif)
+
 ## Setup and Installation
 
 * Clone the project from https://github.com/paigewilliams/Bike-Share-Group-Project.git to a local directory
